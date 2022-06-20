@@ -63,6 +63,9 @@ header {
     text-decoration: none;
     color: #6a5030;
 }
+.contact a:hover {
+    color: #0a1007;
+}
 main {
     position: relative;
     width: 100%;
